@@ -1,0 +1,13 @@
+{
+  "name": "nyxen-bot",
+  "version": "1.0.0",
+  "description": "NYXEN WhatsApp Group Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "^5.0.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
